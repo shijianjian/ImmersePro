@@ -1,0 +1,8 @@
+{
+    "seed": 2023,
+    "save_dir": "experiments_model/",
+    "model": {
+        "net": "immersepro_model",
+        "interp_mode": "bilinear"
+    }
+}
