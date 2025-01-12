@@ -2,7 +2,7 @@
 
 <div class="logo">
    <a>
-      <img src="misc/imp-logo.png" style="width:180px;border-radius: 50%;">
+      <img src="misc/imp-logo.png" style="width:180px;">
    </a>
 </div>
 
